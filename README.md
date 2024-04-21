@@ -17,6 +17,15 @@ CogniFusion Influencer Assistant is an advanced tool designed to enhance social 
 - **Hugging Face**: Utilizes state-of-the-art language models for text generation and natural language understanding.
 - **FAISS**: For efficient similarity search in high-dimensional spaces, crucial for matching queries with the most relevant data points.
 
+## Technology Stack
+
+- **Streamlit**: For building and hosting the interactive web application.
+- **LangChain and OpenAI**: For embedding and retrieval mechanisms, enabling conversational capabilities.
+- **Hugging Face**: Utilizes state-of-the-art language models for text generation and natural language understanding.
+- **FAISS**: For efficient similarity search in high-dimensional spaces, crucial for matching queries with the most relevant data points.
+
+![Technology Stack Diagram](images/image.png)
+
 ## Getting Started
 
 ### Prerequisites
