@@ -1,10 +1,10 @@
-# cognifusion
+# RAG Prototype
 Harness the power of LangChain and AI to optimize influencer engagement across multiple niches, using dynamic content analysis and strategic recommendations.
 
 
-# CogniFusion Influencer Assistant
+# Influencer Assistant Prototype
 
-CogniFusion Influencer Assistant is an advanced tool designed to enhance social media engagement for influencers across various niches like fitness, technology, travel, skincare, and parenting. By leveraging machine learning models, this application processes influencer-specific data to provide tailored advice and actionable recommendations.
+Influencer Assistant is an advanced tool designed to enhance social media engagement for influencers across various niches like fitness, technology, travel, skincare, and parenting. By leveraging machine learning models, this application processes influencer-specific data to provide tailored advice and actionable recommendations.
 
 ## Features
 
