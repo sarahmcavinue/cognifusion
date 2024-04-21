@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/CogniFusion-Influencer-Assistant.git
-   cd CogniFusion-Influencer-Assistant
+   cd app.py
 
 
 Run with: python3 -m streamlit run app3.py 
