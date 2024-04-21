@@ -4,7 +4,7 @@ Harness the power of LangChain and AI to optimize influencer engagement across m
 
 # Influencer Assistant Prototype
 
-Influencer Assistant is an advanced tool designed to enhance social media engagement for influencers across various niches like fitness, technology, travel, skincare, and parenting. By leveraging machine learning models, this application processes influencer-specific data to provide tailored advice and actionable recommendations.
+Influencer Assistant is a tool designed to enhance social media engagement for influencers across various niches like fitness, technology, travel, skincare, and parenting. By leveraging machine learning models, this application processes influencer-specific data to provide tailored advice and actionable recommendations.
 
 ## Features
 
